@@ -14,3 +14,7 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+---
+
+Final project submission for IBM Coursera "Getting Started with Git and GitHub".  
+Completed by: Your Name — GitHub: @swadheen2005
